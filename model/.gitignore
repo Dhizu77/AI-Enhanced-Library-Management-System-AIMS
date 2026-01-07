@@ -10,6 +10,10 @@ __pycache__/
 
 .Python
 build/
+Scripts/
+Include/
+Lib/
+pyvenv.cfg
 develop-eggs/
 dist/
 downloads/
