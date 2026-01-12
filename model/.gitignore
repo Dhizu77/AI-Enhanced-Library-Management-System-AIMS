@@ -12,7 +12,6 @@ __pycache__/
 build/
 Scripts/
 Include/
-Lib/
 pyvenv.cfg
 develop-eggs/
 dist/
